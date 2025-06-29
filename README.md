@@ -1,7 +1,38 @@
 ## Hi there 👋
 
 # 🧑🏻‍💻 About Me:
-🔭 I’m currently working on improving my skills in Python, Java, and C++ by developing software projects that challenge my problem-solving abilities and deepen my understanding of each language.<br>⚙️ I’m currently learning advanced algorithms and data structures to enhance my problem-solving skills.<br> I’m looking to collaborate on innovative software engineering projects, especially in AI, machine learning, and web development.<br>📚 I’m looking for help with expanding my knowledge in cloud computing and DevOps tools.<br>💬 Ask me about Python, C++, and creating educational software for adaptive learning.<br>👤 How to reach me: franciscomustico@gmail.com<br>🧔🏻‍♂️ Pronouns: He/Him<br>⚡ Fun fact: I’m a varsity golfer at Lawrence Tech, blending my passion for sports with tech!<br>
+# 👋 Hi, I'm Francisco Mustico
+
+I'm a varsity golfer and a passionate software engineering student at Lawrence Technological University, blending discipline from athletics with a love for building impactful technology.
+
+### 🚀 What I'm Working On
+- Improving my skills in **Python**, **Java**, and **C++** by building hands-on software projects that challenge my problem-solving and system design abilities.
+- Exploring **advanced algorithms and data structures** to prepare for technical interviews and high-level backend work.
+- Learning **.NET MAUI** and cross-platform development for modern UI-based applications.
+
+### 🤝 Open to Collaborate On
+- Innovative **software engineering projects** — especially in:
+  - **AI & Machine Learning**
+  - **Educational technology / adaptive learning tools**
+  - **Web and mobile development**
+
+### ☁️ Currently Learning
+- **Cloud computing fundamentals** (Azure, AWS)
+- **DevOps tools** like Docker, CI/CD, and deployment automation
+
+### 💬 Ask Me About
+- Python scripting and backend development
+- C++ for performance-intensive applications
+- Building educational tools for personalized learning
+
+### 📫 Reach Me At
+**📧** franciscomustico@gmail.com
+
+### ⚡ Fun Fact
+I’m a **varsity golfer** who brings competitive focus to every line of code I write.
+
+---
+
 
 
 ## 🌐 Socials:
