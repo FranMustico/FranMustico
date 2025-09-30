@@ -7,7 +7,7 @@ Hi, I'm Francisco Mustico, a varsity golfer and passionate software engineering 
 ## Current Focus
 
 **Technical Development**
-- Advancing proficiency in **Python**, **Java**, and **C++** through hands-on software projects that challenge problem-solving and system design capabilities
+- Advancing proficiency in **Java** and **C#+** through hands-on software projects that challenge problem-solving and system design capabilities
 - Studying **advanced algorithms and data structures** to prepare for technical interviews and high-level backend development
 - Learning **.NET MAUI** and cross-platform development for modern UI-based applications
 
