@@ -33,7 +33,7 @@ Leading tutoring sessions in **Python**, **C++**, **Java**, **SQL**, **Data Stru
 
 ## 🚀 Featured Projects
 
-### **Battery Module Assembly System** | [C#, .NET, PostgreSQL]
+### **Internal Assembly Tool** | [C#, .NET, PostgreSQL]
 Production-deployed digitization suite for TWIG Power's battery manufacturing workflow. Includes BMA tracking, repair ticketing, and serial number traceability tools deployed across departments via touchscreen tablet workstations.
 
 ### **JavaMart** | [Java, Swing GUI]
