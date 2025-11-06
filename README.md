@@ -36,7 +36,7 @@ Leading tutoring sessions in **Python**, **C++**, **Java**, **SQL**, **Data Stru
 ### **Internal Assembly Tool** | [C#, .NET, PostgreSQL]
 Production-deployed digitization suite for TWIG Power's battery manufacturing workflow. Includes BMA tracking, repair ticketing, and serial number traceability tools deployed across departments via touchscreen tablet workstations.
 
-### **JavaMart** | [Java, Swing GUI]
+### **JavaMart** | [Java]
 Retail simulation application with dynamic discount engine, customer record management, tax calculation system, and automated invoice generation with TXT-based I/O synchronization.
 
 ### **ArmCar AI** | [Arduino, Python, YOLOv4, HTML/CSS/JS]
